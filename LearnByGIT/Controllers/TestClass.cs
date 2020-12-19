@@ -7,5 +7,7 @@ namespace LearnByGIT.Controllers
 {
     public class TestClass
     {
+        public int en_id { get; set; }
+        public string en_name { get; set; }
     }
 }
